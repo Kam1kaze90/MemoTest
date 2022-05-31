@@ -1,0 +1,24 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "Juego de memoria",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kam1kaze90/MemoTest.git"
+  },
+  "author": "Jonatan Alassia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kam1kaze90/MemoTest/issues"
+  },
+  "homepage": "https://github.com/Kam1kaze90/MemoTest#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
